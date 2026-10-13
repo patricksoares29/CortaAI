@@ -1,0 +1,2 @@
+# CortaAI
+Clips do youtube 
